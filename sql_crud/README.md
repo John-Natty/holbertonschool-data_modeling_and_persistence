@@ -56,13 +56,13 @@ By the end of this project, you should be able to:
 - Each task must use:
 - one SQL query only, unless stated otherwise
 - Queries must be executable using:
-`sqlite3 books.db < file.sql `
+` sqlite3 books.db < file.sql `
 - Output must:
 - match exactly the expected result
 - include correct column order
 - include correct row order when required
 - If ordering is required, you must use:
-`ORDER BY `
+` ORDER BY `
 - Do not:
 - modify table structure unless explicitly instructed
 - use joins or subqueries
