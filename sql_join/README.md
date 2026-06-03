@@ -44,7 +44,9 @@ By the end of this project, you should be able to:
     - must contain a single query (unless stated otherwise)
 - Execution:
 
-`sqlite3 library.db < file.sql`
+```
+sqlite3 library.db < file.sql
+```
 
 - Output must:
     - match expected results exactly
